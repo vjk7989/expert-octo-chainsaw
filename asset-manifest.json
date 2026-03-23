@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expert-octo-chainsaw/static/css/main.83668356.css",
+    "main.js": "/expert-octo-chainsaw/static/js/main.e15a5750.js",
+    "static/js/787.bb437012.chunk.js": "/expert-octo-chainsaw/static/js/787.bb437012.chunk.js",
+    "index.html": "/expert-octo-chainsaw/index.html",
+    "main.83668356.css.map": "/expert-octo-chainsaw/static/css/main.83668356.css.map",
+    "main.e15a5750.js.map": "/expert-octo-chainsaw/static/js/main.e15a5750.js.map",
+    "787.bb437012.chunk.js.map": "/expert-octo-chainsaw/static/js/787.bb437012.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83668356.css",
+    "static/js/main.e15a5750.js"
+  ]
+}
